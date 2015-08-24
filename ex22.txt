@@ -1,0 +1,144 @@
+Exercise 0: The Setup
+- mkdir: Make directory (folder)
+- cd: Change directory
+- ls: List contents of directory
+
+
+Exercise 1: A Good First Program
+- Print: Display text in console
+
+
+Exercise 2: Comments and Pound characters
+- # : Comment/disable line
+-  ‘Used to tell you what something does in Eng & also disable parts of your program
+    if you need to remove them temporarily.’
+
+
+Exercise 3: Numbers and Math
+- + plus
+- - minus
+- / slash, divide
+- * Asterisk, multiply
+- % percent 
+- < less-than
+- > more-than
+- <= less-than-equal
+- => more-than-equal
+
+
+Exercise 4: Variables and Names
+- _: Underscore in variable names
+- Floating Point: numbers with decimals
+- Integer: Numbers w/o decimals
+
+
+Exercise 5: More Variables and Printing 
+- format strings: Strings that have variables embedded in them
+- %s: put value into string
+- %d: for numbers 
+- %r: for “raw data” (actually representation), used for getting debugging info
+- %: provide value after string
+
+
+Exercise 6: Strings and Text
+- Anki card: Use () and , when using several formats in your strings.
+- ‘: Single Quote 
+- “- Double Quote
+
+
+Exercise 7: More printing
++: for joining strings without space
+,: for joining strings with space
+
+
+Exercise 8: Printing, Printing 
+- True: Boolean value/keyword that doesn’t need quotes
+- False: Boolean value/keyword that doesn’t need quotes
+
+
+Exercise 9: Printing, Printing, Printing
+- \: Backslash, used to escape characters  
+- \n: New line command
+- “””: Triple quotes to set off several lines of text.
+
+
+Exercise 10: What was that
+Escape sequences - used to construct complex strings;
+- \\: to escape a backslash \ within a string
+- \’: to escape a single quote within a string
+- \”: to escape a double quote within a string
+- \r: carriage return within a string
+- \t: tab within a string 
+- ‘’’: alternative method of triple quotes 
+
+
+
+Exercise 11: Asking Questions
+- raw_input(): to get typed input from user
+
+
+Exercise 12: Prompting People
+- raw_input(“prompt text ”): Alternative way to put 
+  prompt in for input from user
+- pydoc: Shell command for information on python topics
+
+
+Exercise 13: Parameters, Unpacking, Variables
+- arguments: variable values provided by users
+- pass: Sending info from arguments to variables
+- argv: The argument variable 
+- packing/unpacking: tog get info in and out of the argv
+- module: name for the collection of extra code that can
+  be imported into python (AKA libraries)
+
+
+Exercise 14: Prompting and Passing
+- prompt: A character or string that the user can specify 
+  to ask info from the user 
+
+
+Exercise 15: Reading Files
+- open: make a file available to Python
+- .: dot operator helps join a function to an object
+- .read: read the contents of the file
+- .close: closes the file so it is no longer available to python
+
+
+Exercise 16: Reading and Writing Files
+Learned how to use the inbuilt commands/functions -> MODES:
+- w: write mode
+- r: read mode
+- a: append mode
+- w+: write and read mode
+- r+: vice verse above
+- .truncate: empty files
+- .write: Write information in file
+
+
+Exercise 17: More Files
+- os.path: a library that adapts the file/directory address to the
+specific operating system
+-  exists: A function to determine wether a specific file exists;
+yields a boolean True or False
+
+
+Exercise 18: Names, Variables, Code, Functions
+- def: to define custom functions
+- (args*): to refer to list of arguments in a function (albeit it’ 
+better to list the arguments next to the function name)
+- : an indent: to set block for function
+
+
+Exercise 19: Functions and Variables
+- More info on using variables within functions but no new terms
+
+
+Exercise 20: Functions and Files
+- .seek: go to a specific position within a file (in bytes); .Seek(0)
+  goes to the beginning
+- .readline: reads one line from a file
+- +-: shortcut for incrementing a variable
+
+
+Exercise 21: Functions Can Return Something
+- return: A value that a function makes available  for use in a variable
