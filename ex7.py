@@ -5,7 +5,7 @@ print "." * 10 # what'd that do?
 
 # Literally 1 fullstop * 10 which generates 10 as seen in terminal.
 
-end1 = "C" # Line 8 - 19 are variables and values
+end1 = "C"
 end2 = "h"
 end3 = "e"
 end4 = "e"
