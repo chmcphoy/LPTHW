@@ -1,2 +1,2 @@
 # LPTHW
-Code Exercises from "Learn Python the Hard Way" by Zed A. Shaw
+Code Exercises from "Learn Python the Hard Way" by Zed A. Shaw: http://learnpythonthehardway.org/
